@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>hello app</p>
-        <ReadJson/>
+        <ReadJson />
       </header>
     </div>
   );
