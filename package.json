@@ -44,6 +44,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "https://ayalachadash.github.io/XHR"
+    "homepage": "https://ayalachadash.github.io/XHR",
+    "devDependencies": {
+      "gh-pages": "^4.0.0"
+    }
   }
 }
+
+
+
